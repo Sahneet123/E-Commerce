@@ -3,8 +3,7 @@ Objective: This project aims to analyze the behavior of e-commerce customers to 
 
 Dataset: The dataset used in this analysis contains 350 rows and 11 columns, featuring key attributes such as 'customer_type', 'total_spend', 'items_purchased', and more.
 
-Methodology
-Data Cleaning: The initial preprocessing phase involved handling missing values, addressing outliers, and identifying irrelevant features. This ensured a clean and reliable dataset for subsequent analysis.
+Methodology:Data Cleaning: The initial preprocessing phase involved handling missing values, addressing outliers, and identifying irrelevant features. This ensured a clean and reliable dataset for subsequent analysis.
 
 Exploratory Data Analysis (EDA): EDA involves visualizing distributions, correlations, and patterns within the data. The goal was to gain insights into customer behavior, identify potential trends, and understand the factors contributing to various outcomes.
 
